@@ -1,0 +1,31 @@
+body{
+    font-family: 'Barlow', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orenge-color{
+    color: orange;
+}
+section{
+    display: flex ;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 75%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(0, 81, 128), rgb(0, 132, 255) );
+    background-color: blue;
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+footer p{
+    text-align: center;
+}
